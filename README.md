@@ -1,13 +1,6 @@
 # IoT-Planner
-<img alt="Logo" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="80" />
 
-A simple calendar with events and a customizable widget.
-
-A simple calendar with optional CalDAV synchronization. You can easily create recurring events and setup reminders, it can also display week numbers.
-
-Contains a monthly view and an event list widget where you can customize the color of the text, as well as the alpha and the color of the background.
-
-Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+IoT가전들을 제어하고 동작을 예약하는 플래너입니다.
 
 The Storage permission is needed only for exporting or importing events from .ics files.
 
